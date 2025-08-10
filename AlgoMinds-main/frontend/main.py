@@ -1,7 +1,5 @@
 import streamlit as st
 import pickle
-import joblib
-import sklearn
 import os
 import pandas as pd
 
