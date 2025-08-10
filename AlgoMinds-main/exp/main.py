@@ -96,4 +96,4 @@ st.subheader('Project Link')
 st.write('To know more about the project take a look on the Github repo link given below')
 st.markdown('<a href="https://github.com/Sumit6307/GravityMinds-main">\
             <img src="https://github.com/fluidicon.png" alt="GitHub"\
-            style="width: 50px; border-radius: 50%;"></a> AlgoMinds', unsafe_allow_html=True)
+            style="width: 50px; border-radius: 50%;"></a> GravityMinds', unsafe_allow_html=True)
