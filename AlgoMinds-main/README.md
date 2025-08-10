@@ -1,4 +1,4 @@
-# AlgoMinds: AQI Prediction Project
+# GraivyMinds: AQI Prediction Project
 
 This project focuses on predicting the Air Quality Index (AQI) using multiple machine learning and deep learning models, based on air pollutant data collected from Indian cities. The complete pipeline covers data cleaning, feature engineering, model training, evaluation, and deployment using Streamlit.
 
